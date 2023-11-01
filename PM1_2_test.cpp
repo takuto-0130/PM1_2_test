@@ -14,8 +14,8 @@ int main()
     std::cout << "マージしてください";
 
     std::cout << "\nマージします！！！！！！";
-
-    std::cout << "\nプルリクエストの作成";
+  
+    std::cout << "\nプルしてから作業します";
 
     std::cout << "\na";
 }
